@@ -26,4 +26,4 @@ channel.start_sweep()
 vna.pause(timeout_ms)
 
 # Retrieve data
-s21_data = s21_trace.
+# s21_data = s21_trace.
