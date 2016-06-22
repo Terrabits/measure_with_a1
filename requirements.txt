@@ -1,1 +1,2 @@
-rohdeschwarz
+rohdeschwarz ~= 0.5.6dev1
+matplotlib   ~= 1.5.1
